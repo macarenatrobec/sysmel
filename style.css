@@ -1,0 +1,486 @@
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 100;
+  margin: 0px 10px;
+}
+.a-center{
+  margin: 0 auto;
+}
+.center{
+  margin: 0rem 0rem 0rem 11rem;
+}
+img{
+  width: 7rem;
+}
+html {
+  scroll-behavior: smooth;
+}
+h5{
+  font-family: 'Montserrat';
+  color: #555454;
+  font-size:17px;
+}
+footer{
+  background-color: #FF6827;
+}
+footer p{
+  color: #ffffff;
+  font-family: 'Montserrat-light';
+}
+.mapa-home{
+  width: inherit;
+}
+h6{
+  font-family: Montserrat;
+  color: #707070;
+}
+nav.barra{
+  padding: 17px; 
+}
+
+img.icon{
+  width: 1rem;
+  margin-right: 15px;
+}
+.forms{
+  border-radius: 8px;
+  border: 1px solid #FF6827;
+  margin: 10px 0px;
+  padding: 8px;;
+}
+/* Override UGG site */
+#main {
+  width: 100%;
+  padding: 0;
+}
+.content-asset p {
+  margin: 0 auto;
+}
+.breadcrumb {
+  display: none;
+}
+
+.contacto{
+  background-color: #F7F7F7;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  color: #FF6827;
+  font-family: montserrat;
+  margin: 24px;
+}
+/* Helpers */
+/**************************/
+.margin-top-10 {
+  padding-top: 10px;
+}
+.margin-bot-10 {
+  padding-bottom: 10px;
+}
+
+/* Typography */
+/**************************/
+#parallax-world-of-ugg h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: black;
+  padding: 0;
+  margin: 0;
+}
+#parallax-world-of-ugg h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 51px;
+  color: white;
+  font-weight: 400;
+  text-transform: uppercase;
+  z-index: 10;
+  opacity: 0.9;
+  text-decoration-line: underline;
+  padding-bottom: 1rem;
+}
+#parallax-world-of-ugg h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 2;
+  font-weight: 100;
+  /* text-transform: uppercase; */
+  color: #f8f9fa;
+}
+#parallax-world-of-ugg p {
+  font-family: 'Montserrat-light';
+  font-size: 12px;
+  line-height: 24px;
+  font-weight: 100;
+}
+.first-character {
+  font-weight: 400;
+  float: left;
+  font-size: 84px;
+  line-height: 64px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.sc {
+  color: #3b8595;
+}
+.ny {
+  color: #3d3c3a;
+}
+.atw {
+  color: #c48660;
+}
+
+a {
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+	color:#555454;
+	font-size: 16px;
+	position: relative;
+  -webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+  padding: 15px;
+}
+
+a.item1:after {
+	content: "";
+	position: absolute;
+	height: 2px;
+	background-color:#3CB4E5;
+	width: 0;
+	left: 50%;
+	bottom: 0;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	-webkit-transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+  transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+}
+
+a:hover.item1 {
+  color: #3CB4E5;
+  text-decoration: none;
+}
+
+a.item2:after {
+	content: "";
+	position: absolute;
+	height: 2px;
+	background-color: #FFCE2B;
+	width: 0;
+	left: 50%;
+	bottom: 0;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	-webkit-transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+  transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+}
+
+a:hover.item2 {
+	color: #FFCE2B;
+  text-decoration: none;
+}
+
+a.item3:after {
+	content: "";
+	position: absolute;
+	height: 2px;
+	background-color: #FF671D;
+	width: 0;
+	left: 50%;
+	bottom: 0;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	-webkit-transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+  transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+}
+ion-icon.check{
+  color: #FF671D;
+}
+a:hover.item3 {
+	color: #FF671D;
+  text-decoration: none;
+}
+
+a.item4:after {
+	content: "";
+	position: absolute;
+	height: 2px;
+	background-color: #68D039;
+	width: 0;
+	left: 50%;
+	bottom: 0;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+	-webkit-transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+  transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) all;
+}
+
+a:hover.item4 {
+	color: #68D039;
+  text-decoration: none;
+}
+
+a:hover:after {
+	width: 100%;
+}
+
+
+/* Section - Title */
+/**************************/
+#parallax-world-of-ugg .title {
+  background: white;
+  padding: 60px;
+  margin: 0 auto;
+  text-align: center;
+}
+#parallax-world-of-ugg .title h1 {
+  font-size: 35px;
+  letter-spacing: 8px;
+}
+
+/* Section - Block */
+/**************************/
+#parallax-world-of-ugg .block {
+  padding: 60px 10px;
+  width: 90vw;
+  margin: 0 auto;
+  text-align: justify;
+}
+#parallax-world-of-ugg .block-gray {
+  background: #f2f2f2;
+  padding: 60px;
+}
+#parallax-world-of-ugg .section-overlay-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.7;
+}
+
+/* Section - Parallax */
+/**************************/
+#parallax-world-of-ugg .parallax-one {
+  padding-top: 30vh;
+  padding-bottom: 50vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url('assets/img/edificios.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+#parallax-world-of-ugg .parallax-two {
+  padding-top: 30vh;
+  padding-bottom: 50vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url('assets/img/socio.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+#parallax-world-of-ugg .parallax-three {
+  padding-top: 30vh;
+  padding-bottom: 50vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url('assets/img/equipo.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#parallax-world-of-ugg .parallax-four {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background-image: url('assets/img/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+/* Extras */
+/**************************/
+#parallax-world-of-ugg .line-break {
+  border-bottom: 1px solid black;
+  width: 150px;
+  margin: 0 auto;
+}
+
+/* Media Queries */
+/**************************/
+@media screen and (max-width: 959px) and (min-width: 768px) {
+  #parallax-world-of-ugg .block {
+    padding: 40px;
+    width: 620px;
+  }
+}
+@media screen and (max-width: 767px) {
+  #parallax-world-of-ugg .block {
+    padding: 30px;
+    width: 420px;
+  }
+  #parallax-world-of-ugg h2 {
+    font-size: 40px;
+  }
+  #parallax-world-of-ugg .block {
+    padding: 30px;
+  }
+  #parallax-world-of-ugg .parallax-one,
+  #parallax-world-of-ugg .parallax-two,
+  #parallax-world-of-ugg .parallax-three {
+    /* padding-top: 100px;
+    padding-bottom: 100px; */
+  }
+}
+@media screen and (max-width: 479px) {
+  #parallax-world-of-ugg .block {
+    padding: 30px 15px;
+    width: 290px;
+  }
+  .center{
+    margin: 0rem 0rem 0rem 1rem;
+  }
+}
+img.a-bus{
+  width: 10rem;
+  padding: 17px 0px;
+  margin-left: 7rem;
+}
+h5.SAP{
+  color: #3CB4E5;
+  font-size: 30px;
+}
+
+h5.bus{
+  color: #FFCE2B;
+  font-size: 30px;
+}
+
+h5.dig{
+  color: #FF671D;
+  font-size: 30px;
+}
+
+h5.inno{
+  color: #68D039;
+  font-size: 30px;
+}
+
+img.SAP{
+  width: 10rem;
+}
+
+img.kk{
+  width: 10rem;
+  margin: 2rem 3rem;
+}
+
+img.SM{
+  width: 10rem;
+  margin: 2rem 3rem;
+}
+
+
+
+img.del{
+  width: 10rem;
+  margin: 2rem 3rem;
+}
+
+img.QT{
+  width: 11rem;
+  margin: 2rem 3rem;
+}
+
+img.pwc{
+ width: 7.5rem;
+ margin: 2rem 3rem;
+}
+
+.boton{
+  border: 4px solid;
+  width: 17.8rem;
+}
+
+a.SAP {
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+	color:#555454;
+	font-size: 16px;
+	position: relative;
+  -webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+  padding: 15px 0px;
+}
+
+img.sap-i{
+  width: 3rem;
+}
+h6.sap-t{
+  font-size: 12px;
+}
+
+button.btn-form{
+  background: linear-gradient(90deg, rgba(255,103,29,0.4009978991596639) 0%, rgba(255,103,29,0.40379901960784315) 100%);
+  padding: 6px 26px;
+  border-radius: 9px;
+  color: #ff671d;
+}
+
+
+div{
+	font-family: sans-serif;
+	font-weight: bold;
+  font-size: 40px;
+}
+
+ion-icon.contact{
+  background: linear-gradient(90deg, rgba(255,103,29,0.4009978991596639) 0%, rgba(255,103,29,0.40379901960784315) 100%);
+  padding: 9px;
+  border-radius: 1rem;
+  color:#ff671d;
+}
+
+.bshadow{
+  width: inherit;
+  border-radius: 14px;
+  margin-top: 30px;
+  -webkit-box-shadow: 0px 0px 20px -6px rgba(194,192,194,1);
+  -moz-box-shadow: 0px 0px 20px -6px rgba(194,192,194,1);
+  box-shadow: 0px 0px 20px -12px rgba(194,192,194,1);
+}

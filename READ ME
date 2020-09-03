@@ -1,0 +1,5 @@
+
+
+-En la sección Casos de éxito SAP y Business cada elemento(por fila) tiene asignada una animación para que varíe el tiempo de aparición
+para agregar más elemento copiar cada div y prestar atención al tiempo (1000,1500,2000,2500).
+-El tamaño ideal de las imagenes para esas secciones es de 700x400 px con fondo blanco

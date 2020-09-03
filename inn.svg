@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.9" height="44.912" viewBox="0 0 47.9 44.912">
+  <g id="Grupo_389" data-name="Grupo 389" transform="translate(1)">
+    <rect id="Rectángulo_55" data-name="Rectángulo 55" width="38.362" height="10.015" rx="2.402" transform="translate(0 5.26)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Grupo_60" data-name="Grupo 60" transform="translate(3.743 9.35)">
+      <path id="Trazado_8" data-name="Trazado 8" d="M749.167,1483.419a.946.946,0,0,1,.96-1.008,1.01,1.01,0,0,1-.016,2.018A.943.943,0,0,1,749.167,1483.419Z" transform="translate(-749.167 -1482.411)" fill="#68D039"/>
+      <path id="Trazado_9" data-name="Trazado 9" d="M752.563,1483.419a.947.947,0,0,1,.962-1.008,1.01,1.01,0,1,1-.962,1.008Z" transform="translate(-749.247 -1482.411)" fill="#68D039"/>
+      <path id="Trazado_10" data-name="Trazado 10" d="M755.961,1483.419a.946.946,0,0,1,.961-1.008,1.01,1.01,0,1,1-.961,1.008Z" transform="translate(-749.326 -1482.411)" fill="#68D039"/>
+    </g>
+    <line id="Línea_1" data-name="Línea 1" y2="44.912" transform="translate(43.741)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_2" data-name="Línea 2" x2="7.855" transform="translate(38.362 10.267)" fill="none" stroke="#f7f68D0397f7" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectángulo_56" data-name="Rectángulo 56" width="38.362" height="10.015" rx="2.402" transform="translate(0.486 17.449)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Grupo_61" data-name="Grupo 61" transform="translate(4.229 21.538)">
+      <path id="Trazado_11" data-name="Trazado 11" d="M749.665,1495.9a.946.946,0,0,1,.96-1.009,1.011,1.011,0,1,1-.96,1.009Z" transform="translate(-749.665 -1494.892)" fill="#68D039"/>
+      <path id="Trazado_12" data-name="Trazado 12" d="M753.061,1495.9a.947.947,0,0,1,.962-1.009,1.011,1.011,0,1,1-.962,1.009Z" transform="translate(-749.745 -1494.892)" fill="#68D039"/>
+      <path id="Trazado_13" data-name="Trazado 13" d="M756.459,1495.9a.947.947,0,0,1,.961-1.009,1.011,1.011,0,1,1-.961,1.009Z" transform="translate(-749.824 -1494.892)" fill="#68D039"/>
+    </g>
+    <line id="Línea_3" data-name="Línea 3" x2="7.855" transform="translate(38.848 22.456)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectángulo_57" data-name="Rectángulo 57" width="38.362" height="10.015" rx="2.402" transform="translate(0.683 29.637)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Grupo_62" data-name="Grupo 62" transform="translate(4.426 33.728)">
+      <path id="Trazado_14" data-name="Trazado 14" d="M749.867,1508.382a.946.946,0,0,1,.96-1.008,1.01,1.01,0,1,1-.96,1.008Z" transform="translate(-749.867 -1507.374)" fill="#68D039"/>
+      <path id="Trazado_15" data-name="Trazado 15" d="M753.263,1508.382a.946.946,0,0,1,.961-1.008,1.01,1.01,0,1,1-.961,1.008Z" transform="translate(-749.947 -1507.374)" fill="#68D039"/>
+      <path id="Trazado_16" data-name="Trazado 16" d="M756.661,1508.382a.946.946,0,0,1,.961-1.008,1.01,1.01,0,1,1-.961,1.008Z" transform="translate(-750.026 -1507.374)" fill="#68D039"/>
+    </g>
+    <line id="Línea_4" data-name="Línea 4" x2="7.855" transform="translate(39.045 34.645)" fill="none" stroke="#68D039" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
