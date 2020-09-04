@@ -1,5 +1,17 @@
 
 
--En la sección Casos de éxito SAP y Business cada elemento(por fila) tiene asignada una animación para que varíe el tiempo de aparición
-para agregar más elemento copiar cada div y prestar atención al tiempo (1000,1500,2000,2500).
--El tamaño ideal de las imagenes para esas secciones es de 700x400 px con fondo blanco
+- En la carpeta assets se encuentran todos los archivos de imagenes e íconos:
+    - la carpeta IMG tiene los fondos del home. ordenados de 1 a 3 según aparición.
+    - dentro de IMG, está SAP, son las imágenes del carrusel de Alianzas. En casos de subir logos nuevos, subirlos en formato PNG sin fondo.
+
+- En la sección Casos de éxito SAP y Business cada elemento(por fila) tiene asignada una animación para que varíe el tiempo de aparición
+para agregar más elemento copiar cada div y prestar atención al tiempo de aparición(1000,1500,2000,2500).
+
+- El tamaño ideal de las imagenes para esas secciones es de 700x400 px con fondo blanco, están guardadas en assets/exitos-sap y assets/exitos-bus
+
+- Para cambiar los números de los contadores hay un comentario en el archivo anim.js 
+
+NO OLVIDAR:
+- cambiar datos de contacto en la sección de los países
+- numero de telefono en header
+- descripciones en la sección de Servicios. Recomiendo no excederse de 130 caracteres.

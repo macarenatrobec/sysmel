@@ -23,3 +23,5 @@ window.onscroll = function(){
            counter("count4", 0, 35, 1000);
     }
 }
+
+// para modificar contadores: en los llamados a la funcion counter() se modifica el tercer parámetro, siendo este el número a mostrar en la vista. 

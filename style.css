@@ -19,7 +19,7 @@ html {
 h5{
   font-family: 'Montserrat';
   color: #555454;
-  font-size:17px;
+  font-size:19px;
 }
 footer{
   background-color: #FF6827;
@@ -32,8 +32,9 @@ footer p{
   width: inherit;
 }
 h6{
-  font-family: Montserrat;
+  font-family: Poppins;
   color: #707070;
+  font-size: 13px;
 }
 nav.barra{
   padding: 17px; 
@@ -46,7 +47,7 @@ img.icon{
 .forms{
   border-radius: 8px;
   border: 1px solid #FF6827;
-  margin: 10px 0px;
+  margin: 18px 0px;
   padding: 8px;;
 }
 /* Override UGG site */
@@ -112,7 +113,7 @@ img.icon{
   color: #f8f9fa;
 }
 #parallax-world-of-ugg p {
-  font-family: 'Montserrat-light';
+  font-family: 'Poppins-regular';
   font-size: 12px;
   line-height: 24px;
   font-weight: 100;
@@ -280,7 +281,7 @@ a:hover:after {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url('assets/img/edificios.jpg');
+  background-image: url('assets/img/1.jpg');
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -294,7 +295,7 @@ a:hover:after {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url('assets/img/socio.jpg');
+  background-image: url('assets/img/2.jpg');
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -308,7 +309,7 @@ a:hover:after {
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url('assets/img/equipo.jpg');
+  background-image: url('assets/img/3.jpg');
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
